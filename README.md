@@ -419,5 +419,4 @@ end Is_Valid_Cnpj;
 
 ## Referencias
 - Instrucao Normativa RFB n 2.229/2024.
-- Codigo Fonte TV (Gabriel Froes e Vanessa Weber).
 
